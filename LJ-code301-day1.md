@@ -1,0 +1,1 @@
+Today I learned a lot about process...from the various steps involved in creating clean CSS to documenting Kata solutions to finally, using live server to monitor progress on a web app.  That absolutely blew my mind.  I can see using this service in building every product from here on out.  The ease with which we can see multiple versions of one web app cannot be understated.  
