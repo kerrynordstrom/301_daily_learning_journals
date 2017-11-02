@@ -1,0 +1,2 @@
+Today I learned how to make my linter work with the help of Jeff K.  "Did you restart yet?"
+Additionally, as we spent several hours digesting the lab/starter code, we were able to somewhat understand the connections between all of the different events on the process flow chart.  We explained to each other over and over until we arrived at our best understanding of the various comments and TODOs.  Go slow, it'll work out better in the end.
