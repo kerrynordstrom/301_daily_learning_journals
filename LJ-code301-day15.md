@@ -1,0 +1,3 @@
+Today I learned much ado about checking Slack for updates.  I'd like to say that I am good at reading docs, but knowing the source of the docs is an entirely different animal.  We were probably 1/2 of the way through the original documentation before we realized there were far more explicit directions for our MVP.  
+
+In relation to class material, I'm still learning a bit about new methods and how to phrase them.  I learned mostly that parameters can be considered to be values which helps me think about methods in a more enlightened way, rather than just staring at docs without understanding anything.
