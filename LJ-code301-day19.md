@@ -1,0 +1,3 @@
+I just realized that I turned in Day 17 as if it were Day 19's learning journal.  FWIW, I am considering the previous weekends as class days due to the workload : ).
+
+Soo....today I learned how context (ctx) works within the page.js library.  ctx is utilized to preserve state between callbacks and expects to see information passed between the view and controller referencing the *exact* phrasing of that information requested.  For example, a column in your database might be "book_id", however once it reaches your controller, it is "id", therefore you will need to query this information via your context as, for example: `ctx.params.id` rather than `ctx.params.book_id`.
