@@ -1,0 +1,1 @@
+Today I learned how to be patient and work through solutions with an entire class of human linters.  I realized about 3/4 of the way through my time "on the projector" that my classmates (and instructors) were there to help me work through it until the end and that debugging effectively, through many different perspectives, was the lesson more than the answer being sought.
