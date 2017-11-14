@@ -1,0 +1,1 @@
+I'm learning every day, whether it's close reading of the docs or focused questions and listening to my team mates.  Today's breakthrough was understanding the basic mechanics of our API and how to manipulate the data coming back with Handlebars, including the helpers `{{#each}}` and `{{#with}}`.  
