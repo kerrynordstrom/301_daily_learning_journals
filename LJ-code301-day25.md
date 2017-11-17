@@ -1,0 +1,1 @@
+Today I learned to take notes during other presentations, especially the 401 Javascript.  Observing the things they talked about as well as the very tough questions asked by an audience member who is a manager at Microsoft.  It is beneficial to know why you did or didn't use certain technologies or methods in your development.
