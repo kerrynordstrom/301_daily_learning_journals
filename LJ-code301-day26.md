@@ -1,0 +1,1 @@
+Today I learned that it is important to prep for your presentation down to the moment you go before the mic.  I made sure to take notes on what other teams were doing and helped our team pivot to talking about some of the most relevant pieces of our project...even if we didn't get the 1337 haxxor Sam to see that we also used a database for user log in storage :P
